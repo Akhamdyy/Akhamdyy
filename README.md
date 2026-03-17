@@ -28,13 +28,13 @@ I engineer high-performance backend architectures and low-level system simulatio
 
 ### 📂 Featured Engineering Builds
 
-#### [🚀 AcquirerBank](https://github.com/Akhamdyy/AcquirerBank)
+#### [🚀 AcquirerBank](https://github.com/SuperPay-Internship-2025/AcquirerBank)
 *Part of SuperPay Internship*
 - **The Challenge:** Building a robust banking core that handles high-concurrency transactions.
 - **The Tech:** Spring Boot, PostgreSQL, RSA/AES Encryption.
 - **Engineering Flex:** Implemented full JWE/JWS security layers for sensitive data transit.
 
-#### [📟 OS-Simulator](https://github.com/Akhamdyy/OS-Simulator)
+#### [📟 OS-Simulator](https://github.com/Akhamdyy/OS-Process-Schedular)
 - **The Challenge:** Simulating memory management and CPU scheduling in a virtual environment.
 - **The Tech:** C, Data Structures.
 - **Engineering Flex:** Developed custom MMU logic and SJF/Round Robin scheduling algorithms.
